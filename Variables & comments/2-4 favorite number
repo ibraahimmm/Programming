@@ -1,2 +1,0 @@
-fav_number="10"
-print("my fav number is",fav_number)

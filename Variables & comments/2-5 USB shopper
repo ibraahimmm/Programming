@@ -1,4 +1,0 @@
-total=50
-price=6
-x=total//price
-print(x)

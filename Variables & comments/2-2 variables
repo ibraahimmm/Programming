@@ -1,3 +1,0 @@
-x="Life is either a daring adventure or nothing at all."
-y="Lady Gaga"
-print(y,"once said,",x)
