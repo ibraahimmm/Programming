@@ -1,0 +1,3 @@
+x=float(input("Enter the radius:"))
+y= 3.142* x**2
+print("The area of the circle is",y)

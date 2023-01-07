@@ -1,0 +1,4 @@
+a="Hello"
+b="Mr Ibrahim,"
+c="How are you doing today"
+print(a,b,c)
