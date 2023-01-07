@@ -1,0 +1,5 @@
+mode=["Motorcycle","Car","Jet","Train"] #string list containing differents modes of transport
+print("i would love to own a Yamaha",(mode[0]))
+print("i would love to own a Mercedes",(mode[1]))
+print("i would love to own a Private",(mode[2]))
+print("i would love to own a Private",(mode[3]))

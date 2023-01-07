@@ -1,0 +1,4 @@
+guest=["JuiceWRLD","Pop smoke","Joe Rogan"]
+print("Hi",guest[0],",you are invited to a dinner tonight at 8 pm")
+print("Hi",guest[1],",you are invited to a dinner tonight at 8 pm")
+print("Hi",guest[-1],",you are invited to a dinner tonight at 8 pm")

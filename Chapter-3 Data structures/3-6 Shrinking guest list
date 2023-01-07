@@ -1,0 +1,19 @@
+guest=["JuiceWRLD","Pop smoke","Joe Rogan"]
+print("Hi",guest[0],",you are invited to a dinner tonight at 8 pm")
+print("Hi",guest[1],",you are invited to a dinner tonight at 8 pm")
+print("Hi",guest[-1],",you are invited to a dinner tonight at 8 pm")
+#Adding a print statement to replace a guest
+print("Hi",guest[0],",Sorry to hear that you cannot make it")
+guest[0]="Adison Tesla"
+print("Hi",guest[0],",you are invited to a dinner tonight at 8 pm")
+print("Hi",guest[1],",you are invited to a dinner tonight at 8 pm")
+print("Hi",guest[-1],",you are invited to a dinner tonight at 8 pm")
+#Using pop to exlude guests from the list
+print("Hi",guest[0],",Due to unforeseen circumstances it will not be possible to arrange the dinner.")
+guest.pop(0)
+print("Hi",guest[1],",you are invited to a dinner on friday night at 8 pm. Please arrive prior to the given time")
+print("Hi",guest[-1],",you are invited to a dinner on friday night at 8 pm. Please arrive prior to the given time")
+print("Guest list before deleting is:"+ str (guest))
+#Using del to make the list empty and print it
+del guest[0:2]
+print("Guest list after deleting is:"+ str (guest))

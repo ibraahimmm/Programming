@@ -1,0 +1,6 @@
+friends = ["JJ", "latif", "aiman","saif","Tim"]#string list containing 5 names
+print ("Hi",friends[0],"How are you doing today?")
+print ("Hi",friends[1],"How are you doing today?")
+print ("Hi",friends[2],"How are you doing today?")
+print ("Hi",friends[3],"How are you doing today?")
+print ("Hi",friends[-1],"How are you doing today?")
